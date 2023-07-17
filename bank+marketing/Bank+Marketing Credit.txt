@@ -1,0 +1,6 @@
+Bank+Marketing Credit
+
+The dataset is obtained from this website:
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+The purpose of housing this repository is to give easy access on the dataset when running the code without having to download the dataset locally.
